@@ -1,24 +1,5 @@
-# vue-sidebar-ex
+# Vue Sidebar Example
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The code in this repository is based on the
+[Animated Navbar using CSS, Vue and Vue Router](https://youtu.be/CfTvye31Ad0)
+video.
